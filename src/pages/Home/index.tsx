@@ -10,6 +10,8 @@ import {
   TaskInput,
 } from './styles'
 
+// controlled / uncontrolled
+
 export function Home() {
   return (
     <HomeContainer>
